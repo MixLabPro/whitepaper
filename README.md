@@ -12,6 +12,8 @@ Mixlab无界社区是容纳多学科人才的跨界、创新、开源、实验�
 
 国际化的DAO组织
 
+[MixDAO GitHub](https://github.com/MixDAO-Web3)
+
 [MixDao WIKI](https://mix-dao.notion.site/)
 
 [Discord](https://discord.gg/ht4Zb3u7pE)
